@@ -1,0 +1,14 @@
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\MFShadowGlitch.exe.config
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\MFShadowGlitch.exe
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\MFShadowGlitch.pdb
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\MetroFramework.Design.dll
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\MetroFramework.dll
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\MetroFramework.Fonts.dll
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.csprojResolveAssemblyReference.cache
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.Form1.resources
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.Properties.Resources.resources
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.csproj.GenerateResource.Cache
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.exe
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.pdb
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\ObjectListView.dll
+d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\ObjectListView.xml
