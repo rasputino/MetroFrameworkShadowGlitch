@@ -8,3 +8,4 @@ It's solved just adding a 5 pixels padding in the tab control.
 
 Solved in patch https://github.com/rasputino/MetroFrameworkShadowGlitch/commit/28b1a76ac2f9cafb8d15e26dce5ec5c24f69f2bf
 
+Thanks to https://github.com/dennismagno
