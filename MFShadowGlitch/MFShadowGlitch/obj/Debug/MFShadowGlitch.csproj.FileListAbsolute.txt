@@ -12,3 +12,17 @@ d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadow
 d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.pdb
 d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\ObjectListView.dll
 d:\usuarios\pablo\documentos\visual studio 2015\Projects\MFShadowGlitch\MFShadowGlitch\bin\Debug\ObjectListView.xml
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\bin\Debug\MFShadowGlitch.exe.config
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.exe
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.pdb
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\bin\Debug\MFShadowGlitch.exe
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\bin\Debug\MFShadowGlitch.pdb
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\bin\Debug\MetroFramework.Design.dll
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\bin\Debug\MetroFramework.dll
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\bin\Debug\MetroFramework.Fonts.dll
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\bin\Debug\ObjectListView.dll
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\bin\Debug\ObjectListView.xml
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.csprojResolveAssemblyReference.cache
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.Form1.resources
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.Properties.Resources.resources
+D:\Pablo\GitHub\MetroFrameworkShadowGlitch\MFShadowGlitch\MFShadowGlitch\obj\Debug\MFShadowGlitch.csproj.GenerateResource.Cache
